@@ -1,4 +1,3 @@
-import './style.css';
 import { LocalStorageTaskRepository } from './repositories/LocalStorageTaskRepository.js';
 import { TaskService } from './services/TaskService.js';
 import { TaskView } from './views/TaskView.js';
